@@ -2,6 +2,11 @@
 
 A comprehensive introduction to Data Mining concepts and techniques.
 
+# Working Link (Google Slides)
+```link
+https://docs.google.com/presentation/d/1O0fypUKzfcXXLpS1ZNvUt7JNT6OnIldWya7Ugl3z07o/edit?usp=sharing
+```
+
 ## 📚 About
 
 This repository contains educational resources for learning Data Mining, a fundamental field in computer science and data science that focuses on discovering patterns, extracting knowledge, and deriving insights from large datasets.
