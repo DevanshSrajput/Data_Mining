@@ -19,6 +19,8 @@ This repository contains educational resources for learning Data Mining, a funda
   - Applications and use cases
   - Best practices and methodologies
 
+- **Data Mining- Unit-2.pptx** - A comprehensive presentation covering advanced Data Mining topics for Unit 2
+
 ## 🎯 What is Data Mining?
 
 Data Mining is the process of discovering patterns, correlations, and insights from large amounts of data using various techniques from statistics, machine learning, and database systems. It involves:
